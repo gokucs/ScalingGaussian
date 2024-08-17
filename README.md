@@ -8,7 +8,7 @@ ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian Splattin
 ![Teaser Image](docs/emp1.png "Teaser")
 
 ## Updates
-coming soon
+Coming soon.
 
 ## Citation	
 
