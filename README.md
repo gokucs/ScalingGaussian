@@ -8,11 +8,7 @@ ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian Splattin
 ![Teaser Image](docs/emp1.png "Teaser")
 
 ## Updates
-Although we cannot confirm a specific release date at this time, rest assured that we will provide the demo and source code after the paper is accepted. 
-
-We will take the necessary steps to clean, document, and test the code to ensure ease of use. 
-
-Thank you for your understanding and continued support.
+coming soon
 
 ## Citation	
 
